@@ -1,0 +1,402 @@
+[0.00] i can record and uh we don't have a ton
+[0.05] of items to get to uh and i might be able to do one that might
+[0.11] be fun if we have a little bit of time um so corporate events uh
+[0.21] they i think i saw a little i put this in in slack and i saw a little bit of uh
+[0.27] kind of noise around it which was good um
+[0.32] you know the the nutshell here is as we've kind of restructured and tried different things um
+[0.39] the event support that we need isn't as nailed down as it needs to be uh so the current tactic
+[0.47] that we're going with is go to market team signs up and kind of sponsors that event
+[0.55] so you support it as a pmm your campaign manager does the campaigns for that event et cetera et cetera et cetera uh i don't
+[1.03] see anyone in the uh maybe their comments in the issue i don't see the the header updated yet
+[1.12] i thought we had in slack sort of farmed each one of them out that's so i guess the the next so it
+[1.19] looks like tai put in
+[1.25] some folks it looks like this looks good so that let's see
+[1.34] need support from gtm teams so i guess the ask would be
+[1.39] um to work with your gtm team so so did let me ask that i saw some slack
+[1.46] i think in our slack but did you all uh were you all able to connect with like your gtm
+[1.53] teams uh on slack only and on the issue
+[1.59] actually yeah same not even not in real time but you know source feedback i got one person to respond so far so it
+[2.07] may end up cindy being you and i just picking the one that we want to do and then they can back us up
+[2.14] if we don't get any more feedback yeah do y'all um does anybody have like
+[2.21] a regular sink still are those all been cancelled or is there
+[2.28] cases don't have a regular yeah we're on like a two-week cadence okay yeah git ops has been
+[2.36] cancelled after the enablement
+[2.42] cool so i'm just trying to catch up with the thread
+[2.48] um so it looks like maybe uh platform on reinvent
+[2.55] ci cd on google next and get ops on kubecon does that sound right yeah yep that's where we were last i
+[3.02] heard cool so then i think um
+[3.08] i think we can we can help the corp events team they do they do a lot of like uh cat hurting and
+[3.15] you know keep on tracking people down so i think if if this team can take the mission to
+[3.22] like try to help track that down so if you you know get the commitment specifically
+[3.28] from your campaign managers hey like we're signing up for kubecon you know can you comment on the issue that yes i
+[3.35] can commit to this etc etc etc you know um
+[3.41] so that just so that they can get that that event support but that looks good and i appreciate
+[3.47] uh thanks for the link to samya on the rolls uh product announcements
+[3.55] so i appreciate brian for adding this i probably should have added it but
+[4.02] i had two questions about that one one is over what time frame are we looking at
+[4.09] so uh so in theory this is this could be the same as the
+[4.15] gitlab 14 launch where we're saying basically since 13.0 what has
+[4.20] you know what kind of big improvements have we made um candidly this is always a little bit
+[4.28] tough and i'm and i'm i'm not totally sure of all of the
+[4.35] kind of the interplay here but i think i think this is kind of the general gist
+[4.40] of this assignment is okay we have commit coming up we have some amount of
+[4.46] like we have a stage uh you know a metaphorical stage to say something to
+[4.52] the world and we'll get some amount of press attention because we're having an event right what kind of announcements do we
+[4.59] make at gitlab it's really really tough to make product announcements because our entire roadmap is completely
+[5.06] public yada yada yada so the thought here is to
+[5.12] but also because our entire roadmap is completely public and because we ship these tiny little nbc's
+[5.17] a a new feature will come out but it'll be not really usable right so it takes a
+[5.23] while so if you look back over the past year and say okay like what started in the last year but now is
+[5.29] really like a full-fledged feature what would what would be coming out of beta right like if we were any other company
+[5.36] when we started a beta program in this last year what would we be announcing is ga at commit that's kind of that's kind of
+[5.44] my thought on it did i see a couple head nods what do you think cindy
+[5.50] yeah i think i was inclined to group some things to say like vulnerability
+[5.56] management because there were tiny little mvcs all the way along but if you look at over the course of the year
+[6.02] we went from this to this it makes more sense to me to highlight that than in
+[6.07] any individual little thing and then the other point was we just
+[6.14] had 14.0 can we just can we reuse some of those things and plug them in here
+[6.19] absolutely yeah yeah and vulnerability management was was one of the
+[6.24] you know the features out of we looked at 14.00 so i think yeah this is like let's take the stuff
+[6.30] from 14.00 and then maybe add a few more so that we can hit kind of different areas of press
+[6.36] or give give our pr team this is kind of like input into our pr team to give them fodder to go out with
+[6.42] and are we trying to hit three per stage i yeah ideally there's just you know
+[6.48] three you know uh three items per stage and then i think y'all made some good
+[6.54] notes that okay we need to add manage so i see manage in here that's excellent um and uh integrations we don't
+[7.04] well actually we have some pretty exciting integrations so we have the jira stuff is pretty good there's a couple of things in uh integrations with
+[7.10] vs code that could be notable but
+[7.16] i can i show what i did for scm just to get some general feedback on it and
+[7.21] if someone hasn't done it maybe that will also okay i was going cindy's direction here which
+[7.28] was uh thinking you know a lot of and then i called them key iterations the sort of specific
+[7.33] things so i listed a few specific things like three or four per each as key iterations but i called them
+[7.39] something overall so we would have like one thing to call them
+[7.44] there are several key iterations aligned with getaway cluster uh several that roll up to a
+[7.51] research-based user experience and i was thinking like i was shy on calling out ux as as a
+[7.58] bucket except that actually that's that's super typical right like windows 11 or anybody who's rolling stuff out they almost
+[8.05] always have ux as one of their three things and then they mention a laundry list of stuff that aligns to that
+[8.11] um so i i you know forgave myself for doing something at first i was kind of like shy about
+[8.16] calling out ux and bucketing some things there but actually when i looked around that's pretty much how everybody does
+[8.22] a big launch and in terms of the excitement level that also like i went in thinking this is
+[8.27] just a two i guess part of it is like i feel like we're almost fixing something that's broken
+[8.33] and that's not something you want to shout from the rooftops about but actually some of that stuff's really cool so i gave it a three
+[8.40] excitement level i wasn't sure exactly where to place things um but i figured i wouldn't like to cindy's
+[8.46] comment have something that's a one here anyway but i the only way i could make sense of like the iterations
+[8.53] was to to bucket them with something and uh so that's kind of how i came down on
+[8.58] it i don't know what everyone thinks about that
+[9.04] i like that
+[9.10] i've done a similar i've taken a similar approach for monitor um with incident management
+[9.16] there were a bunch of things that we released um although the core of incident management was
+[9.23] part of trial.x i think so um i did the same over there as well yeah i
+[9.29] think that makes sense yeah and that that would help me with the planned stuff as well because there
+[9.34] are some things like epic boards that people have been asking for for years now and they finally have and
+[9.40] that's great but i think you know like the the milestone burn up charts
+[9.46] that that was a two and that's that's helpful and i was looking through features and you know actual monthly
+[9.53] features that were released in a given month i mean that was one of the more important ones but it's not very exciting but
+[9.58] we can bundle that with some other things and and up level it so that that would be
+[10.03] helpful there and also brian about the vs code thing one other cool thing about that is both of those vs code integrations that hit
+[10.10] the same month were community contributions which is also kind of cool is
+[10.19] is that is do we have vs code listed on here i didn't add it but i can i can add that
+[10.26] in i've got good notes on that the extension that had been around for a while became official was kind of one of
+[10.32] the things but there's some other stuff that's a little juicier than that
+[10.38] and that i think that's a that's a pretty good note as well um we did that with
+[10.45] like our our terraform module right there was like a community module but now it's officially supported
+[10.51] so that's that's the you know that can be the line yes or no whether you can use the thing
+[10.58] uh for a lot of businesses so i think that's a good one too how are we measuring excitement levels
+[11.04] one two and three is there i was i was looking at
+[11.10] um maybe mau as a metric to perhaps measure whether customers
+[11.16] have started using that are interested in using that or not we
+[11.21] probably may not have it for everything but at least some of it wherever we have it is it's
+[11.27] probably something we can we can use yeah but we of course we need a benchmark level
+[11.33] of what mau we want to call one two or three i i think it's a little it's a little
+[11.39] bit of a judgment call like um you know for example cormac was
+[11.45] saying uh like epic boards is something that was asked for for a long time
+[11.50] now depending on how it's asked for maybe that means it's exciting or it's not right
+[11.56] um but usually when something gets a lot of upvotes or when there's a lot of demand for it
+[12.02] then i would i would bump the excitement level on something like that um certainly if something and a lot of
+[12.09] people are using it the mau that's a that's another good measure i don't know that any
+[12.15] one of those needs to kind of be exclusive i think it's a bit of a it's a bit of an individual judgment call and just like what is
+[12.20] what is your feeling based on you know could be anecdotal like you talk to
+[12.25] customers and they're like really hyper excited about this
+[12.34] or you know maybe not which is which is okay i think it's okay um harsh responded to my comment about
+[12.42] why we have the low excitement once and just said something about having him sort of stack ranked
+[12.50] yeah i might i might even constrain this is we're not
+[12.56] going to highlight log segments but we want to see the full spectrum especially in the case we have slim
+[13.01] pickings alternately uh if there are double digit entries then we can stack rank
+[13.07] um so that's that's kind of also helpful there so if
+[13.14] if we have three for all of these that i mean it looks like we're going to get there and that's going to be quite a lot
+[13.20] of features so um i might constrain it like this
+[13.27] maybe you can only give out one one two or three
+[13.32] and and treat it as a stack rank rather than just like a raw excitement level that doesn't
+[13.38] necessarily hard somebody's one or somebody's three
+[13.43] may be more important than somebody else's one depending and i had um i started by just
+[13.50] looking at what was considered a key feature over the past year uh from from create and
+[13.56] you know there are at least a dozen things that i'm not mentioning uh that could be on the list like i
+[14.01] could give you ten things instead of three yeah give it give this just like the rough
+[14.07] like pass and um like a lot of things recently i've been
+[14.13] moving between docs and spreadsheets and the spreadsheet to docs uh this you know this might this might
+[14.18] end up or some iteration of this might end up in a spreadsheet where we then try to stack rank in pr is like okay out
+[14.24] of all of like the you know there's maybe 10 boxes here in three each out of the 30 items which are
+[14.30] the top five um actually let's just let's actually just do that
+[14.36] let's just do this like top top five overall this one is a pr driven to some
+[14.43] degree what about like the noob and christie's uh product keynote at commit are we tailing this with that
+[14.50] so so this is exactly where this is headed to um is the idea that um
+[14.56] during the product keynote and then ideally during sid's keynote as well that there's some level
+[15.03] of like an announcement that we make that then the press cares about that announcement
+[15.08] um again really tough to do at gitlab because it's all been around for a while so this is this is our attempt to head
+[15.15] to that area is to say like these are the announcements of the event and yeah maybe it's some things that
+[15.21] have been around for a while but like now they're at a level of maturity now you know there's
+[15.27] there's reason to be excited about this so that's kind of where it's coming from so
+[15.33] i put uh a top five overall
+[15.40] maybe we can just uh you know
+[15.49] we should reserve a spot for plan but i'm gonna have to go through and do some aggregating after this just go
+[15.55] through the list of what's shipped in the last 12 months and re-bucket that
+[16.01] so uh
+[16.06] maybe we can do like a five minutes kind of like um just just time boxing uh kind of look at
+[16.14] these here what do what do you all think is uh top would be a top five out of the list of you know
+[16.23] 20 or 30. i would say if ux does end up being a
+[16.30] flag that we fly that's an easy one because there's more than just maps to the create stage
+[16.35] that would be considered ux improvement okay
+[16.46] what else we need to have a security one in there we could have either vulnerability management or um
+[16.54] i was what i've been struggling with a little bit is i'd like to kind of group the um some of this
+[17.02] the proprietary scanning um
+[17.08] without making it sound like they're scanning improvements because that sounds like they weren't good before
+[17.15] yeah i let's let's go with vulnerability management for now i i
+[17.20] and i would agree on that one and i would say that um some of these we did do some press
+[17.25] around and the the fuzzing acquisitions was one thing so we might not get that
+[17.31] kind of old i was i mean we did the fuzzing acquisitions
+[17.37] a long time ago was it within the past year or longer
+[17.44] i thought it was within the past year i think it was in the last little over six months or so it was last
+[17.51] summer right or something around there it was like last spring or summer and then we did another set
+[17.56] of press around the integration of it because the pr team liked all the
+[18.01] i mean we got a lot of attention on the acquisition so they had me do a follow-up um on
+[18.08] the integration i just feel like it's kind of worn out now but right that's what i was saying is
+[18.14] that the the fuzzing we already did press on so we probably will not get another chomp at that so i think let's
+[18.19] go with vulnerability management unreviewed but we also have in terms of
+[18.25] proprietary stuff we've also got we replaced one of our scanners with
+[18.30] semgrip and we did um we have our own proprietary dast
+[18.36] scanner now that's in it's in beta called browser so it's our answer to
+[18.44] scanning single page applications which represent a unique challenge i think
+[18.52] i mean if i could have two it would be vulnerability management and berserker probably okay some grip could get picked up as a
+[18.59] online item and a couple of the pieces about getback 14. [Music]
+[19.08] which between between the the proprietary ships and the vulnerability management which would you pick as
+[19.14] number one out of those two probably vulnerability management okay
+[19.21] i'm just kind of scanning the list i would probably say like kubernetes agent is something that we've
+[19.28] made a lot of investment in although
+[19.36] i think the communities agent and from an integration point of view
+[19.43] uh perhaps the terraform integration i think we have a lot of customers actually using that
+[19.50] already so i'm gonna agree i'm just gonna call those get
+[19.55] ops and i'm gonna put like ks agent plus
+[20.02] hashi corp integrations it's like a bucket of capabilities that
+[20.09] is probably worth talking about
+[20.18] uh cool well let's you know let's try to uh
+[20.25] this is due tuesday i think we want to try to get this done um so maybe just uh
+[20.32] review this kind of like let's just kind of pick top five maybe something from planning something
+[20.38] from ci cd uh yeah pipeline editor is definitely an option for ci cd
+[20.43] um yeah there might be no sorry there might be a value stream
+[20.50] analytics story in there too um if we aggregate at all it's it's a bummer that customizable value stream
+[20.56] analytics is 12.9 um but uh yeah
+[21.02] there might be cool now i'm just gonna i'm gonna ping
+[21.07] you on this cormac to add at a top five plan
+[21.17] cool uh i think that's a pretty heavy pretty heavy list
+[21.25] just looking at it you know it's pretty cool yeah and this is something we don't do
+[21.31] which i i agree like we don't we don't often
+[21.37] stop as a company and just kind of look at our wins no uh i was really i don't did y'all did
+[21.44] anybody miss uh what do we call it assembly the assembly
+[21.51] um if you missed it i recommend it i laughed because like what assembly reminds me of is like
+[21.56] when i was in like a young child in grade school yeah they'd had this big stack of like
+[22.02] carpet they were like squares of carpet and you go like you go into the gym and
+[22.08] you'd pull off this a square of carpet and all the children would sit on a square of carpet and that
+[22.13] was like you'd have an assembly yeah so that's why i remember that too put everyone in the gym
+[22.19] or like convert the half cafeteria gym you know take away the big barrier between it so that we can have more room
+[22.25] and then take those carpets that have never been cleaned and just you know sit on them and it'll be
+[22.30] it'll be great beside aside from the goofy name i thought that um and of course we can't
+[22.36] talk about any of it on youtube but man that was like a really awesome look back at like
+[22.42] here's some wins and here's some exciting things that we've done um and so i think we just need to get
+[22.47] better at this as a company i think this exercise is an opportunity that um i think we do a little bit of that but this is doing it more so
+[22.54] uh samia you have some questions here for elita yes
+[23.02] so in the competitive sheet i was i mean i've already identified the
+[23.08] features for cd configure as well as uh monitor uh getting it
+[23.13] reviewed from pm my guess was or my understanding was that we wouldn't have the same set of
+[23.19] competitors that we're going to compare to but the right competitors for that particular
+[23.24] stage right so for example for uh for monitor uh we may not have
+[23.31] like a github or something like that we would have monitor based competitors or was that the understanding because
+[23.39] we identified that entire list of competitors and partners for every single stage
+[23.45] i thought we were going to be using those competitors to compare against so i just wanted you
+[23.51] your input on what because i saw uh some of you have compared with the five
+[23.57] competitors already listed over there um they may not be relevant for example
+[24.03] cloud bs may not be relevant for monitor stage at all um so that's what i wanted to check with you
+[24.09] yeah that's the case i need to go back and look at the spreadsheet i mean if the competitor does not apply to that
+[24.15] particular stage they shouldn't be on that tab in the spreadsheet so are you saying that you see competitors on that
+[24.21] tab for a stage where they don't apply yeah i think it was copy pasted each
+[24.27] google has the same yeah so each sheet has has ado atlassian github jenkins j frog
+[24.34] and cloud piece right so that may not be relevant for monitor for configure it would be a different
+[24.40] set of competitors that we need to include which i think we already identified a while back i think we
+[24.46] identified top three competitors for every stage yeah we feared them that's when we
+[24.51] tiered them right tier one tier two tier three so this this where we are right now is we're looking at just tier one competitors
+[24.57] that's probably why i cut and paste them because those are all tier ones so we're just focusing on tier one right
+[25.02] now so if they don't apply to that stage don't worry about it makes sense so just pick the ones out of
+[25.08] that list that apply to our stage right i just will just use the tier one
+[25.14] competitors and if they're not if they don't uh are not applicable then we don't have to fill out anything for
+[25.20] them yeah for now but then we'll move to tier two and tier three then we'll look at those other okay do
+[25.26] we need to add a line item for gitlab as well because i i think that's the same over here yeah we should
+[25.34] add i think you asked me that before right or someone asked me i'm just looking at
+[25.40] it brian out um yeah we're good yeah because the way
+[25.46] without it you're basically putting all the things that we're better at yeah for sure for sure yeah right
+[25.55] ideally when we picked like the 10 to 15 features though some of those were like get lab
+[26.01] only some of those were like gitlab didn't have well i thought it was
+[26.06] supposed to be none of them should be get lab only right it should be all through the lens of yeah yeah exactly yeah it should be like
+[26.13] market lens so yeah in an ideal world most of them are like this is what i'm shopping for this
+[26.18] solution some like some of them might be git lab only some of them like competitor only so that it's a
+[26.25] somebody would look at it and be like this looks honest and trustworthy and like a a accurate assessment of the market there
+[26.31] yeah and then yeah i think samia for this just to kind of reiterate for this one
+[26.37] we're only doing these five competitors so we'll do the other ones in a later stage and then uh
+[26.44] for if if the vendor builds like bills themselves as a platform
+[26.50] then we should specifically call out that they have zero so github builds itself as a platform it
+[26.57] sells itself that way um same with azure devops same with jfrog
+[27.02] well they all do for tier one except jenkins and cloudbees yeah yeah jenkins clappies does not yeah
+[27.08] but uh what is it you know azure devops github uh atlassian
+[27.15] and although atlassians we still need to figure something out there that as a matter of fact did i go back and add alaska because i based on
+[27.22] conversation i think we have to do it i don't think we can leave them all so did i i don't i have to look at this question
+[27.28] right it is atlassian is on that sheet okay yeah i went back and added them because based on discussion like my
+[27.35] my i wanted to take them off completely and just leave them as a partner but we can't do that so
+[27.43] so yeah so for for those platform you know we should call out the fact that they don't have any monitoring if they have
+[27.50] like 0 out of 15 we should call that out um same with configure stuff or this
+[27.55] you know any those kind of capabilities
+[28.01] i think if we took that a step further it'd be good to even describe it in a way that doesn't just say our product stage and use like a value-based
+[28.07] description of what monitor and configure mean because otherwise we're just no that's not going to do any
+[28.12] good for us have you guys seen the new infographic that the uh design team has come up with
+[28.18] not yet oh you haven't no do we have a link to that quickly
+[28.24] william i don't know or you can throw it in the uh you can throw it in the um notes if you find it
+[28.30] all right let's see who can find it faster guarantee it not with the amount of tabs
+[28.36] i have open oh my god that's what i'm like it probably won't be me
+[28.41] so i this is why i send everything to a google uh gmail because the search is so
+[28.49] fast so i literally have a folder where all of my gitlab pings go
+[28.55] and i can just search for infographic and well i found it i found it i found it who could lick it first
+[29.03] i found it i found it so this is the one so this there's two this is the one for the single two
+[29.09] comparison but then for the um but it's going to look the same but then here's the one for
+[29.14] um i just put it in chat for you guys and here's the one for the platform
+[29.20] players so so we made it we made a couple
+[29.26] decisions along the way so um
+[29.31] one of the decisions was to just go with stages um it would have been like a whole
+[29.37] nother layer of okay if we don't go with just the get laps stages the ten stages what do what do we use um that has to be
+[29.45] determined reconciled all this kind of stuff like the you know
+[29.51] we kind of i don't know how long it's been since we updated those pages have like not been updated
+[29.57] but we kind of are just trying to move towards some sort towards some progress so uh i concur that maybe configure and
+[30.05] monitor is not as descriptive as it could be but the place where it will
+[30.10] so actually i'll share one thing it just seems like the right time to do this right
+[30.15] manage is is even less descriptive than that so so um the way this is
+[30.23] the way this is getting built is off of a data model so um in theory these could change or be
+[30.29] updated where the underlying data remains the same right because like we're separating
+[30.35] like presentation layer from data layer uh so that's it's not going to be as
+[30.42] hard to update in the future as it currently is where it's a mess of spaghetti code and it's like really really difficult to update
+[30.49] and then the other component is then not in this iteration we need to get something live but in the next iteration
+[30.56] you'll click on verify and it'll go down to the list of the 15 features
+[31.02] and that's where you can describe what the heck of verify is or what the heck i'm managing okay so we will have a number two that because i
+[31.08] was about to say you're gonna hate me for this but like we're we're we're being cyclical about the
+[31.13] same problem we had which being the audience coming in and not knowing anything about these specific stages that was one of the big things
+[31.21] it's like okay 15 15 features what what is what are they why do i care
+[31.26] you know better yeah to say that means nothing to me looking at this this page
+[31.31] um but quick questions i'm not gonna be a debbie downer that's it no we're on top of it actually if you read the thread i
+[31.37] brought that up but she said we can't do it like right now which i understand but small thing what do you guys think about the
+[31.44] colors i don't know i usually let the designers handle that stuff they they i i like yeah
+[31.53] i i like the fact that there's no red on there oh you like that
+[31.59] that's what i was going for you liked it okay it's not it's not obviously negative
+[32.04] uh so we're saying because it really does lend itself to being a comparison more than a competitive piece because of that
+[32.11] because there's no you know these folks at 37 are in the red and they're terrible they just have less green or we would have less green
+[32.18] so it's not it's not being worse it's being less good and i i think that i think that lends
+[32.24] itself to working with you know your all the coopetation situations we're talking
+[32.30] about yeah yeah that's that's the goal is we want we want to generate a helpful asset
+[32.36] for the industry this is not just like marketing shill this should be like a helpful page uh so
+[32.42] it's like yeah the goal is to have a comparison comparing devops tools not a you know
+[32.48] this is all of our competitors and why we're better yeah um i i i think from a competitive
+[32.53] mindset and for me i'm like let's go hard let's put some red on there and that's just the way i think right
+[32.59] so but i brought it up and that for now we're going to stick with the green they recommend it we stick with the green and uh see how it goes
+[33.05] but i don't know i was feeling the red and yellow too so it is easy on the
+[33.10] eyes um it's you know there's something to be said for that so yeah uh cool well
+[33.18] we're almost up on time but i did want to share one thing that kind of came in like basically friday it was like late
+[33.25] thursday for me so this uh this is another thing a lot a lot of these things i don't have like a
+[33.32] ton of context on um i just know like we're just trying to up our game so like hey let's move fast
+[33.37] and do the best we can do um so this is a little bit of a messaging
+[33.43] framework and then the assignment that was given to me was to to fill in these boxes here
+[33.50] so uh and then this was the fodder that i got so there was these ones that
+[33.57] said like from road map to company vision we are transparent and a single source of truth countless
+[34.03] possibilities honestly i think this one's really like really pithy and catchy i really like it i really liked
+[34.11] uh what's the other one that i like that not everyone does
+[34.16] all in one for everyone so i just uh i don't know i like i just think so there's something catchy about that
+[34.22] um but i know that kind of catchy is not everyone's cup of tea all that's
+[34.28] to say is um the assignment here was that i took it was to write a pithy
+[34.35] few words like punchy statement for each of these three things uh so i
+[34.41] ended up with a single source of truth countless possibilities i like that a lot um this one i went with end to end
+[34.48] control over your software factory not as pithy but or like not as catchy
+[34.54] but um so what's the difference between that
+[35.00] slide and the next one that doesn't have anything under security this this was the um
+[35.07] honestly so that so when i first got this it didn't have this
+[35.12] and it didn't have anything under security so this like what i'd do is just your iteration of it
+[35.18] yeah this is this is mine this is i just put here so that i would have like the original statements like
+[35.24] you know automate nearly anything collaborate on everything i kind of like that but i you know
+[35.31] this one i hate scale up speed up test up i don't think anybody tests up i think that's really goofy
+[35.37] so you hate it uh this one i love that for me it's i i love it or i hate it right um i love how i love how you're
+[35.44] just like bam uh so anyway the what i love in just in five minutes
+[35.51] now and then we can just kind of end the call is kind of like um anything that you would change this
+[35.58] out for anything that you would change this out for and then actually let's start here this one i
+[36.04] couldn't pick and i'll i'll tell you why it's because i i like things to have parody in in their
+[36.11] tone right so this is maybe like super nuanced elements of messaging but i hate
+[36.16] it if it's like a single source of truth that's like a noun phrase end to end control that's like a noun
+[36.25] item so you could say with git lab you get a single source of truth with git lab you get end to end control
+[36.32] and you can't say with git lab you get move fast with confidence no but
+[36.37] you can say more speed less risk i like that one the best i don't like the last one okay i agree that's that's why i put
+[36.44] this one at top was for that parody and then so it sounds like kind of y'all's thoughts or that's that's good
+[36.51] as well uh yeah the only thing it might be missing but i don't know how we do it without
+[36.57] over complicating it is well i guess less risk also implies higher quality
+[37.03] i guess that kind of bundles the quality and the security together so i've talked myself out of not liking
+[37.09] that so yeah good cindy's last blog post had a really good turn of phrase that i stole from forgive
+[37.16] that 14 when she was out it was like secure the software factory and all the stuff that you're making in it
+[37.23] she said it really elegantly and so i just kind of ended deliverables secure the factory and its deliverables
+[37.29] yeah i thought it was good to emphasize both because they mean different things
+[37.34] yeah yeah so you could say um secure and control your software
+[37.40] factory and its deliverables maybe that would encompass both
+[37.48] thoughts i'm i'm not a big fan of the it's it's deliverables is there can we say
+[37.56] like your software factory in your software or your your sub or in your product
+[38.04] sounds like car manufacturer you can say ip here but it just doesn't sound right
+[38.09] and that's always it's always shorthand yeah i like this one better
+[38.18] yeah i think i do too but but i appreciate the thought brian uh
+[38.26] and then the last thing i'll say is so this is this is my attempt to channel my inner
+[38.32] ash withers um i think ash is like super good at
+[38.37] just again just like the catchy or like the turn of phrase element to it
+[38.42] um and so like this kind of idea like single source of truth countless possibilities or all-in-one
+[38.49] for everyone there's something catchy about this so so here i was trying to like envision what is it that we actually
+[38.55] give you with this philosophy it's like it's velocity with confidence is what is what you get
+[39.01] um i like your move fast with confidence better than increase speed and stay on track
+[39.07] yeah so i was trying to i was thinking of like you know if you're like if you're in a race car
+[39.14] and like you go like super super fast like let's say you're in the bike race right and you're going so fast and somebody
+[39.19] holds out the sign and then like half of the bike race collapses
+[39.24] right so it's almost kind of like you can you can keep going like faster and
+[39.30] faster and faster and if somebody like jumps out with a sign in the middle of the racetrack
+[39.35] you're not going to get tripped up by it because get labs you know it's testing is going to catch that security's going to catch that um
+[39.42] all of those elements that allow you to move faster but to do so with confidence because otherwise you're like the faster you go then it
+[39.48] gets more dangerous so trying to encapsulate that in this like that was kind of where i was like stay on track but i didn't like it
+[39.54] either did you just open the door for a nascar partnership
+[39.59] hey nascar goes fast and turns left because of get loud
+[40.06] so you're our new ricky audience demographic so yeah so i don't think i like that one
+[40.12] and then i think between these two i like move fast with confidence but i don't like the
+[40.17] the verbiage of it because it doesn't have parody so that's where i think do you want to add maybe we can add high
+[40.24] confidence or more confidence at the end of your first statement so it kind of combines
+[40.30] all of it so more speed less risk high confidence is kind of overused anyway like i see a
+[40.36] lot of competitors and vendors using it i really like the first one just more speed less wrist bam no trade-offs you know
+[40.42] just that's how it is ooh no trade-offs that's one of my
+[40.49] go-to's i love that one this this gets into the uh no trade-offs
+[40.56] the engine the engineer in me says there's never no trade-offs that's like saying like 100 secure
+[41.04] complex this is why we always say mitigate right we always say risk or less risk you never say no
+[41.10] that's everything with messaging right i mean not everything you know how about just more speed less risk with
+[41.18] confidence yeah more speed
+[41.28] the ricky bobby and me really did like the no trade off so parker yeah oh is that was that from uh
+[41.34] no but it could have been it's something ricky bobby would have said if anyone hasn't seen talladega nights they should
+[41.40] that's the homework for this weekend we talk about it on monday in our little
+[41.45] social report i often say thank you little eight pound five ounce baby juice
+[41.51] with the golden diapers i say that so often that i just think everybody has seen talladega nights but
+[41.56] then i realized that people that haven't are like william's really weird and then next week we'll watch step brothers
+[42.03] that's another great one so much room for activities okay um i'm gonna go with uh more speed
+[42.12] less risk than um i think this is due at the end of the day so
+[42.17] any additional thoughts i'm actually going to untag me it's strong all those are you know
+[42.24] cool those are good awesome well uh this was kind of fun to do a little bit of like
+[42.30] working together session and uh keep a little dazzle keep it rocking
+[42.38] good to see everybody see you soon
